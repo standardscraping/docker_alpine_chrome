@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: alpine-chrome
+  IMAGE_NAME: alpine_chrome
 
 jobs:
   build-and-push-image:
